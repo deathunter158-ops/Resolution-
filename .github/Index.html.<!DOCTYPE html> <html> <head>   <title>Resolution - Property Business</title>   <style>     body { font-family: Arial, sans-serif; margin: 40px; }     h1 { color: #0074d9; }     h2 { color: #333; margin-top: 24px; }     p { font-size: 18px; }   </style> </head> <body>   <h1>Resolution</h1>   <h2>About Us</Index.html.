@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resolution - Property Business</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    h1 { color: #0074d9; }
+    h2 { color: #333; margin-top: 24px; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Resolution</h1>
+  <h2>About Us</h2>
+  <p>We are a property selling business dedicated to helping people find their perfect home.</p>
+</body>
+</html>
